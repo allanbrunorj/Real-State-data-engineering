@@ -1,0 +1,122 @@
+Estado;Cidade;Bairro;Área;Terreno;Dormitório;Banheiro;Vaga;Útil;Suíte;Preço
+ RS; Venâncio Aires ;Santa Tecla;250,04;250,04;;;;;;69.000
+ RS; Venâncio Aires ;Santa Tecla;261,36;261,36;;;;;;69.000
+ RS; Venâncio Aires ;Santa Tecla;267,96;267,96;;;;;;70.000
+ RS; Venâncio Aires ;Santa Tecla;363,00;363,00;;;;;;76.000
+ RS; Venâncio Aires ;Santa Tecla;363,00;363,00;;;;;;76.000
+ RS; Venâncio Aires ;Bela Vista;363,00;363,00;;;;;;96.000
+ RS; Venâncio Aires ;Parque do Chimarrão;282,20;;;;;;;105.000
+ RS; Venâncio Aires ;Gressler;266,20;266,20;;;;;;110.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;50,00;;125.000
+ RS; Venâncio Aires ;Marjan;;;2;1;1;;;133.000
+ RS; Venâncio Aires ;Parque do Chimarrão;47,70;;2;1;1;;;135.000
+ RS; Venâncio Aires ;Universitário;365,12;365,12;;;;;;135.700
+ RS; Venâncio Aires ;Santa Tecla;45,70;;2;1;1;;;143.000
+ RS; Venâncio Aires ;Santa Tecla;52,00;;2;1;1;;;145.000
+ RS; Venâncio Aires ;Bela Vista;48,60;;2;1;1;;;145.000
+ RS; Venâncio Aires ;Parque do Chimarrão;363,00;;;;;;;149.000
+ RS; Venâncio Aires ;São Francisco Xavier;;;2;1;1;51,60;;149.000
+ RS; Venâncio Aires ;Bela Vista;;;2;1;1;;;153.000
+ RS; Venâncio Aires ;Gressler;85,00;;2;1;1;;;155.000
+ RS; Venâncio Aires ;Brígida;;;2;1;1;64,00;;158.000
+ RS; Venâncio Aires ;Bela Vista;56,00;;2;1;1;;;159.000
+ RS; Venâncio Aires ;Centro;72,80;;2;1;1;;;160.000
+ RS; Venâncio Aires ;Universitário;53,51;;2;1;2;;;160.000
+ RS; Venâncio Aires ;Bela Vista;57,15;;2;1;1;;;160.000
+ RS; Venâncio Aires ;Centro;360,00;360,00;;;;;;160.000
+ RS; Venâncio Aires ;Cidade Alta;;550,00;;;;;;160.000
+ RS; Venâncio Aires ;Centro;;;1;1;1;52,00;;165.000
+ RS; Venâncio Aires ;Aviação;;;2;1;1;64,49;;169.000
+ RS; Venâncio Aires ;Travessa;5.200,00;;2;1;1;;;170.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;53,47;;170.000
+ RS; Venâncio Aires ;Aviação;372,00;372,00;;;;;;170.000
+ RS; Venâncio Aires ;Bela Vista;;;2;1;1;61;;170.000
+ RS; Venâncio Aires ;Santa Tecla;55,78;;2;1;1;;;170.000
+ RS; Venâncio Aires ;Aviação;532,40;532,40;;;;;;170.000
+ RS; Venâncio Aires ;Centro;66,20;;2;1;1;;;172.000
+ RS; Venâncio Aires ;Gressler;;;2;1;1;;;175.000
+ RS; Venâncio Aires ;Centro;74,00;;2;2;1;;;175.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;2;1;1;;;178.000
+ RS; Venâncio Aires ;Aviação;;;2;1;1;69,00;;180.000
+ RS; Venâncio Aires ;São Francisco Xavier;;;2;1;1;;;180.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;54,04;;185.000
+ RS; Venâncio Aires ;São Francisco Xavier;50,00;;2;1;1;;;185.000
+ RS; Venâncio Aires ;Santa Tecla;;;2;1;1;;;185.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;68,00;;190.000
+ RS; Venâncio Aires ;Santa Tecla;;;2;1;1;;;190.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;68,00;;190.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;2;1;1;;;190.000
+ RS; Venâncio Aires ;Aviação;;;2;1;1;52,00;;195.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;2;1;1;;;199.000
+ RS; Venâncio Aires ;Centro;73,80;;2;1;1;;;200.000
+ RS; Venâncio Aires ;Centro;72,00;;2;1;1;;;210.000
+ RS; Venâncio Aires ;Aviação;55,00;;2;1;1;;;210.000
+ RS; Venâncio Aires ;Santa Tecla;;;2;2;1;;;210.000
+ RS; Venâncio Aires ;Brígida;;;;;;;;212.000
+ RS; Venâncio Aires ;São Francisco Xavier;;;2;1;2;;;219.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;54,00;;220.000
+ RS; Venâncio Aires ;Brígida;73,00;;2;2;1;;;225.000
+ RS; Venâncio Aires ;Centro;102,00;;2;1;1;;;230.000
+ RS; Venâncio Aires ;Aviação;;;3;2;1;;;230.000
+ RS; Venâncio Aires ;Parque do Chimarrão;62,00;;2;1;2;;;230.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;75,00;;230.000
+ RS; Venâncio Aires ;Parque do Chimarrão;408,00;408,00;;;;;;230.000
+ RS; Venâncio Aires ;São Francisco Xavier;60,37;;2;1;2;;;235.000
+ RS; Venâncio Aires ;Coronel Brito;;;2;2;1;;;235.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;264,00;2;1;1;;;245.000
+ RS; Venâncio Aires ;Centro;;;2;1;2;73,00;;249.000
+ RS; Venâncio Aires ;Parque do Chimarrão;77,57;;2;2;1;;;249.000
+ RS; Venâncio Aires ;Diettrich;59,09;;2;2;1;;;250.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;2;2;1;;;250.000
+ RS; Venâncio Aires ;Santa Tecla;;;2;1;2;;;250.000
+ RS; Venâncio Aires ;Santa Tecla;;;2;1;2;;;254.400
+ RS; Venâncio Aires ;Santa Tecla;;;2;1;2;;;259.700
+ RS; Venâncio Aires ;Santa Tecla;;;2;1;2;;;265.000
+ RS; Venâncio Aires ;Brígida;;;2;2;1;;1;270.000
+ RS; Venâncio Aires ;Brígida;110,00;;2;2;1;;;280.000
+ RS; Venâncio Aires ;Macedo;72,00;;2;1;;72,00;;280.000
+ RS; Venâncio Aires ;Centro;308,00;;;;;;;280.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;2;1;;;290.000
+ RS; Venâncio Aires ;Santa Tecla;;;2;2;1;;1;290.000
+ RS; Venâncio Aires ;Centro;675,00;675,00;;;;;;295.000
+ RS; Venâncio Aires ;Centro;;;2;2;1;;1;295.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;2;1;;;300.000
+ RS; Venâncio Aires ;Santa Tecla;90,00;;2;1;2;;;300.000
+ RS; Venâncio Aires ;Morsch;90,00;;2;1;2;;;320.000
+ RS; Venâncio Aires ;Centro;;;2;1;1;76,00;;325.000
+ RS; Venâncio Aires ;-;109,00;;2;1;1;;;350.000
+ RS; Venâncio Aires ;Travessa;;;1;1;2;61,00;;350.000
+ RS; Venâncio Aires ;Cidade Alta;;;2;2;1;;1;360.000
+ RS; Venâncio Aires ;Centro;;;2;1;2;;;370.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;363,00;3;2;2;;;380.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;2;4;;1;395.000
+ RS; Venâncio Aires ;Morsch;;637,00;3;2;3;;;415.000
+ RS; Venâncio Aires ;Centro;1.265,00;1.265,00;;;;;;425.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;3;2;;1;425.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;3;2;;1;425.000
+ RS; Venâncio Aires ;Xangrilá;146,00;;2;2;1;;;450.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;2;2;;1;450.000
+ RS; Venâncio Aires ;Cidade Alta;;;3;2;1;;1;472.936
+ RS; Venâncio Aires ;Cruzeiro;;;2;2;5;;1;480.000
+ RS; Venâncio Aires ;Cidade Alta;726,00;;;;;;;490.000
+ RS; Venâncio Aires ;Centro;;;3;2;2;;1;490.000
+ RS; Venâncio Aires ;Cidade Alta;;;3;2;1;;1;505.000
+ RS; Venâncio Aires ;Centro;160,00;;;2;1;;;510.000
+ RS; Venâncio Aires ;Centro;;;3;4;1;;2;525.000
+ RS; Venâncio Aires ;Centro;;;4;2;1;;1;570.000
+ RS; Venâncio Aires ;Centro;;;3;2;2;;1;575.000
+ RS; Venâncio Aires ;Centro;;;3;2;2;;1;575.000
+ RS; Venâncio Aires ;Morsch;;;3;1;4;185,07;;580.000
+ RS; Venâncio Aires ;Centro;;;3;2;2;;1;580.000
+ RS; Venâncio Aires ;Centro;;;3;3;3;;1;620.000
+ RS; Venâncio Aires ;Centro;;;3;2;2;;1;650.000
+ RS; Venâncio Aires ;Centro;;;3;2;1;;1;679.000
+ RS; Venâncio Aires ;Centro;;;4;3;2;;1;680.000
+ RS; Venâncio Aires ;Centro;;462,00;4;3;4;;;690.000
+ RS; Venâncio Aires ;Centro;;;3;1;3;;;720.000
+ RS; Venâncio Aires ;Centro;;;3;2;1;;1;740.000
+ RS; Venâncio Aires ;Centro;;605,00;;;;;;745.000
+ RS; Venâncio Aires ;Parque do Chimarrão;;;3;3;4;;1;750.000
+ RS; Lajeado ;Universitário;;;2;3;4;;1;790.000
+ RS; Venâncio Aires ;Cidade Alta;;;3;2;3;;1;800.000
+ RS; Venâncio Aires ;Cidade Alta;;;2;2;1;;1;815.000
