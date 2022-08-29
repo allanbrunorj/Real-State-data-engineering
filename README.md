@@ -1,12 +1,12 @@
 # Real State Summary - A end-to-end Data Project 
-
+<br/>
 Este repositório é um projeto completo de extração de dados da internet, processamento, armazenamento em banco de dados PostgreSQL, e visualização com PowerBI
 
 Os dados são obtidos de corretores imobiliários do interior do **Rio grande do Sul - Brasil**
-
+<br/>
 ![image](https://user-images.githubusercontent.com/60104543/186186920-a81cf0c4-ea8c-48e9-a4b5-0369eb9cccca.png)
 
-
+<br/>
 Fluxo do projeto:
 - Web scrap dos dados com **Python**
 - Controle de banco de dados **PostgreSQL** com containerização **Docker Compose**.
